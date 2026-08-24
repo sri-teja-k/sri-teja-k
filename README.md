@@ -56,3 +56,6 @@ I'm focused on **building strong fundamentals, creating meaningful projects, sol
 I'm always open to **learning, collaborating, and connecting with people working on interesting ideas.**
 
 ⭐ Feel free to explore my repositories and follow my journey!
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sri-teja-k&theme=github-dark&hide_border=true&area=true)
