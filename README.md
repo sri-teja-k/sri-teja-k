@@ -1,6 +1,6 @@
 # Hi there, I'm Sriteja 👋
 
-I'm a 1st year B.Tech student specializing in **Artificial Intelligence & Data Science**.
+I'm a 2nd year B.Tech student specializing in **Artificial Intelligence & Data Science**.
 
 I’m interested in **Data Science, Python, problem-solving, and building things that actually work**.
 
