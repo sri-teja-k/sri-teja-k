@@ -51,11 +51,8 @@ I'm focused on **building strong fundamentals, creating meaningful projects, sol
 
 ---
 
-## Let's Connect 🤝
+<h2 align="center">📊 GitHub Contributions</h2>
 
-I'm always open to **learning, collaborating, and connecting with people working on interesting ideas.**
-
-⭐ Feel free to explore my repositories and follow my journey!
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sri-teja-k&theme=github-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-commit-map.yzzi.icu/api/contributions/sri-teja-k/svg" width="900">
+</p>
