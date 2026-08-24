@@ -51,19 +51,6 @@ I'm focused on **building strong fundamentals, creating meaningful projects, sol
 
 ---
 
-## Let's Connect 🤝
-
-I'm always open to **learning, collaborating, and connecting with people working on interesting ideas.**
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=github-dark&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=github-dark&hide_border=true" height="180"/>
-</p>
-
-⭐ Feel free to explore my repositories and follow my journey!
 
 
 
