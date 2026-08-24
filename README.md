@@ -1,83 +1,61 @@
 # Hi there, I'm Sritejaa 👋
 
-### B.Tech AI & Data Science Student | Python | Data Science | Problem Solving
+I'm a 1st year B.Tech student specializing in **Artificial Intelligence & Data Science**.
 
-I'm a first-year **B.Tech student specializing in Artificial Intelligence & Data Science**, passionate about **Data Science, Python, and solving real-world problems through technology**.
+I’m interested in **Data Science, Python, problem-solving, and building things that actually work**.
 
-Currently, I'm building my foundation in **Python, Data Structures & Algorithms, SQL, Data Analysis, and Git & GitHub** through hands-on projects and continuous learning.
+Currently, I'm strengthening my foundations in **Python, DSA, SQL, Git & GitHub, and Data Analysis** through hands-on projects and continuous learning.
 
-I enjoy turning ideas into projects, learning from mistakes, and improving my skills by building things rather than just studying theory.
-
----
-
-## 🚀 What I'm Currently Doing
-
-- 🐍 Strengthening my Python programming skills
-- 🧠 Practicing Data Structures & Algorithms
-- 📊 Exploring Data Science & Data Analysis
-- 🗄️ Learning SQL and database concepts
-- 💻 Building practical projects
-- 🌱 Learning new technologies and improving every day
-- 🎯 Looking for opportunities to gain real-world experience
+I believe the best way to learn is to **build, break, fix, and build again.** 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## Projects Worth a Look
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📂 Projects
-
-### 💰 Expense Tracker
-A Python-based application for recording and managing expenses using CSV data.
-
-### 🎓 Student Management System
-A Python project for managing student information and practicing programming fundamentals.
+### 🐍 Student Management System
+A Python-based project for managing student records while practicing real-world programming concepts.
 
 ### 🌦️ Weather App
-A project focused on working with weather data and APIs.
+A simple application that works with weather data and focuses on APIs and presenting useful information.
+
+### 💰 Expense Tracker
+A Python project for recording, managing, and analyzing expenses using CSV data.
 
 ### 🔐 Password Generator
-A Python utility for generating random and secure passwords.
+A Python utility for generating secure random passwords while practicing programming fundamentals.
 
 ---
 
-## 🎯 Career Goal
+## Stack
 
-I'm looking for **internship opportunities** where I can:
-
-- Work on real-world projects
-- Learn from experienced developers
-- Apply my programming and data skills
-- Contribute to meaningful solutions
-- Grow as a Data Science professional
-
-I'm open to **Data Science, Python, Analytics, and Software/Tech internship opportunities**.
+**Python** · **SQL / MySQL** · **HTML/CSS** · **Git & GitHub** · **DSA** · **Data Analysis**
 
 ---
 
-## 📊 GitHub Stats
+## Right Now
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sri-teja-k&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-teja-k&theme=github-dark&hide_border=true" height="170"/>
-</p>
+- 🔭 Building projects to strengthen my Python & Data Science foundations
+- 🧠 Practicing Data Structures & Algorithms
+- 📊 Learning Data Analysis and working with real-world datasets
+- 🗄️ Improving my SQL & database skills
+- 🚀 Looking for **internship opportunities**
+- 🤝 Open to collaborating on interesting projects
 
 ---
 
-## 🤝 Let's Connect
+## My Goal 🎯
 
-I'm always interested in **learning, collaborating, building projects, and connecting with people in tech**.
+I don't want to just collect certificates or learn technologies for the sake of it.
+
+I'm focused on **building strong fundamentals, creating meaningful projects, solving real-world problems, and continuously improving as a developer.**
+
+---
+
+## Let's Connect 🤝
+
+I'm always open to **learning, collaborating, and connecting with people working on interesting ideas.**
 
 ⭐ Feel free to explore my repositories and follow my journey!
+
+
 
