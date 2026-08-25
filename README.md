@@ -28,7 +28,7 @@ A Python utility for generating secure random passwords while practicing program
 
 ## Stack
 
-**Python** · **SQL / MySQL** · **HTML/CSS** · **Git & GitHub** · **DSA** · **Data Analysis**
+**Python** · **SQL / MySQL** · **HTML/CSS** · **Git & GitHub** · **DSA** · **Data Analysis** **java**
 
 ---
 
