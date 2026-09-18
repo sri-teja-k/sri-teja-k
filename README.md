@@ -39,7 +39,7 @@ A Python utility for generating secure random passwords while practicing program
 - 📊 Learning Data Analysis and working with real-world datasets
 - 🗄️ Improving my SQL & database skills
 - 🚀 Looking for **internship opportunities**
-- 🤝 Open to collaborating on interesting projects
+- 🤝 Open to collaborating on interesting projectss
 
 ---
 
